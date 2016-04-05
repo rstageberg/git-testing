@@ -1,2 +1,2 @@
 LICENSE
-Just don't do anything too sarcastic with this file ok
+Just don't do anything too sarcastic with this project ok
