@@ -1,2 +1,0 @@
-Just a little file to say hello.
-Check out Gitorious, Gitosis or other self-managed git platforms
