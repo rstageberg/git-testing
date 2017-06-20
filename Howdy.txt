@@ -1,2 +1,2 @@
 Just a little file to say hello.
-Check out Gitosis or other self-managed git platforms
+Check out Gitorious, Gitosis or other self-managed git platforms
